@@ -1,0 +1,15 @@
+# Java / Build
+/out/
+/build/
+/dist/
+*.class
+*.log
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
+# NetBeans
+nbproject/private/
+.nb-gradle/
